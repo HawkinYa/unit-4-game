@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/ep_naturalwhite.png");
+    margin:0;
+}
+
+.btn {
+    margin-left: 25px;
+}
+
+#compNum {
+    background-color: lightcoral;
+    text-align: center
+}
+
+#userNum {
+    background-color: lightblue;
+    text-align: center
+}
+
+#images {
+    background-color: gainsboro;
+}
+
+.gems {
+    width: 200px;
+    height: 200px;
+}
